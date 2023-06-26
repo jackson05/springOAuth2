@@ -1,0 +1,11 @@
+
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          Google:
+            client-id: google-client-id
+            client-name: google-client-name
+          Facebook:
+            client-id: facebook-client-id
