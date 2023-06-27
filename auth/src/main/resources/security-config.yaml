@@ -9,3 +9,7 @@ spring:
             client-name: google-client-name
           Facebook:
             client-id: facebook-client-id
+            client-name: facebook-client-name
+          Twitter:
+            client-id: twitter-client-id
+            client-name: twitter-client-name
